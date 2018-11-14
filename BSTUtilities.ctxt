@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=t\ x\ display
+comment0.target=boolean\ contains(TreeNode,\ java.lang.Comparable,\ TreeDisplay)
+comment0.text=\n\ Checks\ if\ tree\ contains\ value\ \n\ \n\ @param\ t\ the\ tree\ to\ be\ checked\n\ @param\ x\ the\ value\ to\ be\ checked\n\ @param\ display\ displays\ tree\n\ @return\ true\ if\ tree\ contains\ value,\ false\ otherwise\ \n
+comment1.params=t\ x\ display
+comment1.target=TreeNode\ insert(TreeNode,\ java.lang.Comparable,\ TreeDisplay)
+comment1.text=\n\ Inserts\ value\ in\ tree.\n\ \n\ @param\ t\ the\ tree\ that\ value\ is\ to\ be\ insterted\n\ @param\ x\ the\ value\ that\ is\ to\ be\ inserted\n\ @param\ display\ displays\ tree\n\ @return\ the\ TreeNode\ that\ is\ inserted\n
+comment2.params=t\ display
+comment2.target=TreeNode\ deleteNode(TreeNode,\ TreeDisplay)
+comment2.text=\n\ Deletes\ node\ from\ tree.\n\ \n\ @param\ t\ the\ node\ that\ is\ to\ be\ deleted\n\ @param\ display\ displays\ tree\n\ @return\ the\ replacement\ of\ the\ deleted\ node\n
+comment3.params=t\ x\ display
+comment3.target=TreeNode\ delete(TreeNode,\ java.lang.Comparable,\ TreeDisplay)
+comment3.text=\n\ Finds\ node\ that\ is\ to\ be\ deleted.\n\ \n\ @param\ t\ the\ tree\ that\ node\ is\ to\ be\ found\n\ @param\ x\ the\ value\ that\ is\ to\ be\ found\n\ @param\ display\ displays\ tree\n\ @return\ the\ root\ of\ the\ tree\n
+numComments=4

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyTreeSet()
+comment0.text=\n\ Constructor\ for\ MyTreeSet\n
+comment1.params=
+comment1.target=int\ size()
+comment1.text=\n\ Returns\ size\ of\ the\ tree\ rooted\ at\ root.\n\ \n\ @return\ the\ size\ of\ the\ tree\ rooted\ at\ root\n
+comment2.params=obj
+comment2.target=boolean\ contains(java.lang.Object)
+comment2.text=\n\ Checks\ if\ tree\ rooted\ at\ root\ contains\ object\n\ \n\ @param\ obj\ the\ object\ to\ be\ checked\n\ @return\ true\ if\ tree\ contains\ object,\ false\ otherwise\n
+comment3.params=obj
+comment3.target=boolean\ add(java.lang.Object)
+comment3.text=\n\ Adds\ object\ to\ the\ tree\n\ \n\ @param\ obj\ the\ object\ to\ be\ added\n\ @return\ true\ if\ object\ added,\ false\ otherwise\n
+comment4.params=obj
+comment4.target=boolean\ remove(java.lang.Object)
+comment4.text=\n\ Removes\ object\ from\ tree\n\ \n\ @param\ obj\ the\ object\ to\ be\ removed\n\ @return\ true\ if\ object\ removed,\ false\ otherwise\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Returns\ the\ values\ of\ tree\n\ \n\ @return\ the\ string\ values\ of\ tree\n
+comment6.params=t
+comment6.target=java.lang.String\ toString(TreeNode)
+comment6.text=\n\ Returns\ the\ values\ of\ tree\n\ \n\ @param\ t\ the\ tree\ to\ be\ printed\n\ @return\ the\ values\ of\ t\n
+numComments=7
